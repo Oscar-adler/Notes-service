@@ -8,7 +8,7 @@ namespace Notes_service
 	public class Program
 	{
 		class Note
-		
+		{
 			string name;
 			string description;
 			int priorites;
